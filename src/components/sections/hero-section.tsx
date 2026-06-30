@@ -24,7 +24,7 @@ export function HeroSection() {
 
           <a
             href="#features"
-            className="rounded-full border border-gray-300 px-6 py-3 text-center text-sm font-semibold text-gray-950 transition hover:bg-gray-55"
+            className="rounded-full border border-gray-300 px-6 py-3 text-center text-sm font-semibold text-gray-950 transition hover:bg-gray-50"
           >
             View Features
           </a>
